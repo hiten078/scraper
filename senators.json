@@ -1,0 +1,181 @@
+[ {
+  "name" : "Jesse Bjorkman",
+  "party" : "Republican",
+  "address" : "Nikiski",
+  "phone" : "907-465-2828",
+  "email" : "Senator.Jesse.Bjorkman@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=bjk",
+  "title" : "Senator",
+  "position" : "D"
+}, {
+  "name" : "Matt Claman",
+  "party" : "Democrat",
+  "address" : "Anchorage",
+  "phone" : "907-465-4919",
+  "email" : "Senator.Matt.Claman@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=cla",
+  "title" : "Senator",
+  "position" : "H"
+}, {
+  "name" : "Mike Cronk",
+  "party" : "Republican",
+  "address" : "Tok/Northway",
+  "phone" : "907-465-4527",
+  "email" : "Senator.Mike.Cronk@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=crn",
+  "title" : "Senator",
+  "position" : "R"
+}, {
+  "name" : "Forrest Dunbar",
+  "party" : "Democrat",
+  "address" : "Anchorage",
+  "phone" : "907-465-6944",
+  "email" : "Senator.Forrest.Dunbar@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=dnb",
+  "title" : "Senator",
+  "position" : "J"
+}, {
+  "name" : "Cathy Giessel",
+  "party" : "Republican",
+  "address" : "Anchorage",
+  "phone" : "907-465-4843",
+  "email" : "Senator.Cathy.Giessel@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=gie",
+  "title" : "Senator",
+  "position" : "E"
+}, {
+  "name" : "Elvi Gray-Jackson",
+  "party" : "Democrat",
+  "address" : "Anchorage",
+  "phone" : "907-465-4930",
+  "email" : "Senator.Elvi.Gray-Jackson@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=gra",
+  "title" : "Senator",
+  "position" : "G"
+}, {
+  "name" : "Lyman Hoffman",
+  "party" : "Democrat",
+  "address" : "Bethel",
+  "phone" : "907-465-4453",
+  "email" : "Senator.Lyman.Hoffman@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=hof",
+  "title" : "Senator",
+  "position" : "S"
+}, {
+  "name" : "Shelley Hughes",
+  "party" : "Republican",
+  "address" : "Palmer",
+  "phone" : "907-465-3743",
+  "email" : "Senator.Shelley.Hughes@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=hus",
+  "title" : "Senator",
+  "position" : "M"
+}, {
+  "name" : "James Kaufman",
+  "party" : "Republican",
+  "address" : "Anchorage",
+  "phone" : "907-465-4949",
+  "email" : "Senator.James.Kaufman@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=kau",
+  "title" : "Senator",
+  "position" : "F"
+}, {
+  "name" : "Scott Kawasaki",
+  "party" : "Democrat",
+  "address" : "Fairbanks",
+  "phone" : "907-465-3466",
+  "email" : "Senator.Scott.Kawasaki@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=kaw",
+  "title" : "Senator",
+  "position" : "P"
+}, {
+  "name" : "Jesse Kiehl",
+  "party" : "Democrat",
+  "address" : "Juneau",
+  "phone" : "907-465-4947",
+  "email" : "Senator.Jesse.Kiehl@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=kie",
+  "title" : "Senator",
+  "position" : "B"
+}, {
+  "name" : "Kelly Merrick",
+  "party" : "Republican",
+  "address" : "Eagle River",
+  "phone" : "907-465-3777",
+  "email" : "Senator.Kelly.Merrick@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=mrr",
+  "title" : "Senator",
+  "position" : "L"
+}, {
+  "name" : "Robert Myers",
+  "party" : "Republican",
+  "address" : "North Pole",
+  "phone" : "907-465-3719",
+  "email" : "Senator.Robert.Myers@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=mye",
+  "title" : "Senator",
+  "position" : "Q"
+}, {
+  "name" : "Donny Olson",
+  "party" : "Democrat",
+  "address" : "Golovin",
+  "phone" : "907-465-3707",
+  "email" : "Senator.Donald.Olson@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=ols",
+  "title" : "Senator",
+  "position" : "T"
+}, {
+  "name" : "Mike Shower",
+  "party" : "Republican",
+  "address" : "Wasilla",
+  "phone" : "907-465-6600",
+  "email" : "Senator.Mike.Shower@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=sho",
+  "title" : "Senator",
+  "position" : "O"
+}, {
+  "name" : "Bert Stedman",
+  "party" : "Republican",
+  "address" : "Sitka",
+  "phone" : "907-465-3873",
+  "email" : "Senator.Bert.Stedman@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=smn",
+  "title" : "Senator",
+  "position" : "A"
+}, {
+  "name" : "Gary Stevens",
+  "party" : "Republican",
+  "address" : "Kodiak",
+  "phone" : "907-465-4925",
+  "email" : "Senator.Gary.Stevens@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=stg",
+  "title" : "Senator",
+  "position" : "C"
+}, {
+  "name" : "Loki Tobin",
+  "party" : "Democrat",
+  "address" : "Anchorage",
+  "phone" : "907-465-3704",
+  "email" : "Senator.Loki.Tobin@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=tob",
+  "title" : "Senator",
+  "position" : "I"
+}, {
+  "name" : "Bill Wielechowski",
+  "party" : "Democrat",
+  "address" : "Anchorage",
+  "phone" : "907-465-2435",
+  "email" : "Senator.Bill.Wielechowski@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=wie",
+  "title" : "Senator",
+  "position" : "K"
+}, {
+  "name" : "Robert Yundt",
+  "party" : "Republican",
+  "address" : "Wasilla",
+  "phone" : "907-465-3878",
+  "email" : "Senator.Robert.Yundt@akleg.gov",
+  "url" : "http://www.akleg.gov/basis/Member/Detail/34?code=yun",
+  "title" : "Senator",
+  "position" : "N"
+} ]
