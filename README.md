@@ -76,6 +76,7 @@ Run the main application:
 **Bash**
 ```
 java -cp target/your-project-name.jar com.mycompany.senatescraper.Scraper
-(Note: Replace your-project-name.jar and the package path with your project's actual names)
 ```
+(Note: Replace your-project-name.jar and the package path with your project's actual names)
+
 Once the program finishes, you will find a new senators.json file in the root folder.
